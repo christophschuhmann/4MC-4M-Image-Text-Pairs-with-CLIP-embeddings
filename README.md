@@ -1,4 +1,4 @@
-# 4M-C-4M-Image-Text-Pairs-with-CLIP-embeddings
+# 4MC-4M-Image-Text-Pairs-with-CLIP-embeddings
 I have created a dataset of Image-Text-Pairs by using the cosine similarity of the CLIP embeddings of the image &amp; it's caption derrived from YFCC100M. I have also added the following propabilities from a NSFW detector: 'sexy', 'porn','drawing', 'hentai','neutral'
 
 
