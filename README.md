@@ -9,6 +9,7 @@ Link to the meta-data without CLIP-embeddings: https://drive.google.com/file/d/1
 
 
 I used | as a seperator for the CSV files. 
-They can be read with     df = pd.read_csv(csv_file, sep = '|',lineterminator='\n')
+They can be read with     
+  df = pd.read_csv(csv_file, sep = '|',lineterminator='\n')
 
 All images from YFCC100M are released under a Creative Commons License. More information about the exact license for each image is in the CSVs.
