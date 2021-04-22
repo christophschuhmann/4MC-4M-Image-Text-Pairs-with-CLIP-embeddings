@@ -8,6 +8,7 @@ Here can you explore a small part of the data: http://gallerytest.christoph-schu
 
 
 Link to the meta-data with CLIP-embeddings: (coming soon)
+
 Link to the meta-data without CLIP-embeddings: https://drive.google.com/file/d/1edNr-GEYz69RWcsSgskNzjtM--Qxepdz/view?usp=sharing
 
 
