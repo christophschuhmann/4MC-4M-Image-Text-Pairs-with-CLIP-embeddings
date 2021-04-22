@@ -6,8 +6,9 @@ I have created a dataset of Image-Text-Pairs by using the cosine similarity of t
 
 Here can you explore a small part of the data: http://gallerytest.christoph-schuhmann.de/photos/index.php?/category/3
 
+# The CSVs include the CLIP-embedding (512 dim vector) of each image. This allows e.g. similarity search & more
 
-Link to the meta-data with CLIP-embeddings: (coming soon)
+Link to the meta-data with CLIP-embeddings of the images: (coming soon)
 
 Link to the meta-data without CLIP-embeddings: https://drive.google.com/file/d/1edNr-GEYz69RWcsSgskNzjtM--Qxepdz/view?usp=sharing
 
