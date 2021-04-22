@@ -10,7 +10,10 @@ Here can you explore a small part of the data: http://gallerytest.christoph-schu
 This allows e.g. similarity search by calculating the cosine similarity between a give image or text CLIP-embedding and the ones in the dataset, simiilarly to what this website does: https://same.energy/
 
 
-Link to the meta-data with CLIP-embeddings of the images: (coming soon)
+Link to the meta-data with CLIP-embeddings of the images: 
+Part 1: https://drive.google.com/file/d/1-5TElUnISAfLHN-1kzlnZAO5f4mjEN1Z/view?usp=sharing
+Part 2: https://drive.google.com/file/d/1-BARa0b7m6ds8Hu_vwipr5JvKYc6EtF7/view?usp=sharing
+
 
 Link to the meta-data without CLIP-embeddings: https://drive.google.com/file/d/1edNr-GEYz69RWcsSgskNzjtM--Qxepdz/view?usp=sharing
 
