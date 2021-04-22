@@ -27,3 +27,6 @@ All images from YFCC100M are released under a Creative Commons License. More inf
 
 This dataset (arragement of meta-data in the CSV files, not the images or the texts itself) is released by me under the Creative Commons License: Attribution 4.0 International (CC BY 4.0) 
 https://creativecommons.org/licenses/by/4.0/
+
+
+More about me: http://christoph-schuhmann.de/
