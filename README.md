@@ -2,7 +2,7 @@
 I have created a dataset of Image-Text-Pairs by using the cosine similarity of the CLIP embeddings of the image &amp; it's caption derrived from YFCC100M. I have also added the following propabilities from a NSFW detector: 'sexy', 'porn','drawing', 'hentai','neutral'
 
 
-# Number of Img-Text-pairs: 4264733
+# Number of Image-Text-pairs: 4264733
 
 Here can you explore a small part of the data: http://gallerytest.christoph-schuhmann.de/photos/index.php?/category/3
 
