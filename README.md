@@ -25,7 +25,7 @@ They can be read with
 
 The columns of the CSVs are 
 
-columns =['final_caption', 'title', 'text','usertags','url', 'licensename','image_size', 'source', 'quality_level','sexy', 'porn','drawing', 'hentai','neutral', 'clip_embedding_img']) 
+columns =['final_caption', 'title', 'text','usertags','url', 'licensename','image_size', 'source', 'quality_level','sexy', 'porn','drawing', 'hentai','neutral', 'clip_embedding_img']
 
 
 
